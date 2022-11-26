@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.header {
+  font-size: 30px;
+}
+
+.container {
+  margin: 20px;
+}
+
+.container > table {
+  width: max-content;
+  margin: auto;
+}
+
+.container > table td {
+  padding: 0 20px;
+  text-align: left;
+}
+
+.button-container {
+  margin: 20px;
+}
+
+.button {
+  padding: 10px 10px;
+  border: none;
+  outline: none;
+  color: white;
+  background-color: black;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 0px 15px;
+}
