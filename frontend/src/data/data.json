@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNR7FvvC_9X1l2xqi2rdkStAHaSRMmg89O_g&usqp=CAU",
+      "name": "Chiranjeev Thapliyal",
+      "email": "chiranjeev.t@coinswitch.co",
+      "is_friend": false
+    },
+    {
+      "id": 2,
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNR7FvvC_9X1l2xqi2rdkStAHaSRMmg89O_g&usqp=CAU",
+      "name": "Nikhil Kanwal",
+      "email": "nikhil.k@coinswitch.co",
+      "is_friend": true
+    },
+    {
+      "id": 3,
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNR7FvvC_9X1l2xqi2rdkStAHaSRMmg89O_g&usqp=CAU",
+      "name": "Saravana J N",
+      "email": "saravana@coinswitch.co",
+      "is_friend": true
+    },
+    {
+      "id": 4,
+      "profile_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNR7FvvC_9X1l2xqi2rdkStAHaSRMmg89O_g&usqp=CAU",
+      "name": "Jaskaran Singh",
+      "email": "jaskaran.s@coinswitch.co",
+      "is_friend": false
+    }
+  ],
+  "coin-list": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "btc",
+      "icon": "https://files.coinswitch.co/public/coins/btc.png"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "symbol": "eth",
+      "icon": "https://files.coinswitch.co/public/coins/eth.png"
+    },
+    {
+      "id": "matic",
+      "name": "Matic",
+      "symbol": "matic",
+      "icon": "https://files.coinswitch.co/public/coins/matic.png"
+    },
+    {
+      "id": "doge",
+      "name": "Doge",
+      "symbol": "doge",
+      "icon": "https://files.coinswitch.co/public/coins/doge.png"
+    }
+  ]
+}
